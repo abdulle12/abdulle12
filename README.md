@@ -29,6 +29,10 @@ I'm a [Your Job Title] based in [Your Location]. I'm passionate about [Your Inte
 - **Tools & Frameworks:** Django and React
 
 ## 📊 My GitHub Projects
+https://github.com/abdulle12/new-folder
+https://github.com/abdulle12/myprojet
+https://github.com/abdulle12/sport
+
 
 
 
