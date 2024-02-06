@@ -4,7 +4,8 @@
 
 
 
-I'm a [Your Job Title] based in [Your Location]. I'm passionate about [Your Interests or Technologies].
+I'm a web Developer. I'm passionate about creating user-friendly and interactive  websites and applications using tools like Html, CSS and Javscript and python and also 
+libries like react and bootstrap and backend web frameworks like Django.
 
 ## 🚀 About Me
 
@@ -26,12 +27,14 @@ I'm a [Your Job Title] based in [Your Location]. I'm passionate about [Your Inte
 - **Programming Languages:* Html,Css Javscript and python
 - **Web Development:** Frontend, Backend
 - **Databases:** postgresql
-- **Tools & Frameworks:** Django and React
+- **Tools & Frameworks:** Django,React and Bootsrap
 
 ## 📊 My GitHub Projects
-https://github.com/abdulle12/new-folder
+https://github.com/abdulle12/new-folder 
 https://github.com/abdulle12/myprojet
 https://github.com/abdulle12/sport
+https://github.com/abdulle12/TodoList
+
 
 
 
@@ -42,3 +45,4 @@ https://github.com/abdulle12/sport
 
 
 Feel free to reach out! 😊
+Email:aliabdulle4616@gmail.com
