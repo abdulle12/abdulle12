@@ -18,9 +18,6 @@ libries like react and bootstrap and backend web frameworks like Django.
 ## 🔧 Technologies & Tools
 
 
-## 🌱 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## 🛠️ Skills
 
