@@ -27,6 +27,8 @@ libries like react and bootstrap and backend web frameworks like Django.
 - **Tools & Frameworks:** Django,React and Bootsrap
 
 ## 📊 My GitHub Projects
+https://github.com/abdulle12/sportpage-django-project
+
 https://github.com/abdulle12/Sport-page
 
 https://github.com/abdulle12/Aws-restart-final-project
